@@ -1,0 +1,30 @@
+body {
+	background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467); /*gives background image*/
+	background-size: cover; /*makes image as small as possible while still covering width of entire screen*/
+	background-position: center; 
+	font-family: 'Lato', sans-serif;
+	color: white; /*will just set the color for h1 and h3, but everything else is overwritten b/c navbar colors is more specific for all other elements */
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%; /*push it down to center of page, keep it as a percentage so its more responsive when shrink window*/
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1 {
+	font-weight: 700; /*make h1 bold*/
+	font-size: 5em;  /*5 times bigger than parent element*/
+}
+
+html {
+	height: 100%; 
+}
+
+hr { /*modify the horizontal line to be shorter*/
+	width: 400px; 
+	border-top: 1px solid #f8f8f8; 
+	border-bottom: 1px solid rgba(0,0,0,0.2); /*makes a light gray shadow on bottom of line*/
+}
