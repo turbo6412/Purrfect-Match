@@ -1,6 +1,6 @@
 # Puurfect-Match
 Created a trendy look for a dating website!
-# Utilized HTML/CSS and Bootstrap 3 to create a cleverl, modern dating website that resembles a start up company! 
+# Utilized HTML/CSS and Bootstrap  to create a cleverl, modern dating website that resembles a start up company! 
 
 # Here we see very sleek icons! I also made sure to match them with the theme of pets!
 ![dating website](https://user-images.githubusercontent.com/46942833/97503949-3b121780-1933-11eb-848a-b0b3768fff24.PNG)
